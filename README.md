@@ -7,7 +7,7 @@ on WhatsApp and over the phone.
 ## Try it now
 
 ### [▶ Talk to the receptionist by voice](https://josemdasilvag-blip.github.io/umbrelia/)
-A call in your browser, no phone needed. The voice receptionist speaks Spanish; the page has phrases to try.
+A call in your browser, no phone needed. She speaks English and Spanish; the page has phrases to try.
 
 ### [💬 Message it on WhatsApp: +34 644 402 947](https://wa.me/34644402947?text=Hi!)
 Write in English or Spanish. Ask what a teeth whitening costs, book an appointment for Thursday afternoon,
