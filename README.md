@@ -15,6 +15,11 @@ then move it or cancel it.
 
 Both answer for a demo business: a fictional beauty and dental clinic in Madrid.
 
+The public demo lets you test the customer experience: ask for a price or an
+available slot, book a test appointment, then move or cancel it. It uses a demo
+calendar, not a real clinic's appointments. Voice access requires microphone
+permission in your browser; WhatsApp opens a conversation with the demo number.
+
 [![Watch the 40-second video](https://umbrelia.es/video/explicativo-poster.webp)](https://umbrelia.es/video/umbrelia-explicativo.mp4)
 
 [Watch the explainer video](https://umbrelia.es/video/umbrelia-explicativo.mp4) · [umbrelia.es](https://umbrelia.es)
@@ -48,7 +53,7 @@ team and rules, so adding a new client means filling in a file, not writing code
 
 | | |
 |---|---|
-| **67 automated tests** | Booking, rescheduling, cancelling, voice, reports and the server, run on every change. |
+| **67 internal automated tests** | Booking, rescheduling, cancelling, voice, reports and the server. Results and source are in the private product repository, so they cannot be inspected from this public showcase. |
 | **Slot locking** | Concurrent requests cannot double-book the same slot. |
 | **Strict scope** | It only talks about the business, as Meta requires for WhatsApp assistants since January 2026. |
 | **Always on** | Runs as system services on a dedicated cloud server behind a Cloudflare tunnel. |
@@ -60,6 +65,11 @@ Google Calendar · Cloudflare · Linux / systemd
 
 The code is private because it is the product of the agency.
 Access for review can be granted on request.
+
+This public repository documents the product and hosts the voice demo page. It
+does not contain the assistant's backend or its test suite. The demo shows what
+a visitor can try; it is not a public verification of the internal test count,
+deployment setup or concurrency safeguards.
 
 ---
 
