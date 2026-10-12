@@ -58,7 +58,7 @@ team and rules, so adding a new client means filling in a file, not writing code
 
 | | |
 |---|---|
-| **67 internal automated tests** | Booking, rescheduling, cancelling, voice, reports and the server. Results and source are in the private product repository, so they cannot be inspected from this public showcase. |
+| **67 internal automated tests** | The full private suite passed on 12 October 2026. See the [public test summary](TEST-EVIDENCE.md) for scope and limits. Test source remains private, so visitors cannot rerun it from this showcase. |
 | **Slot locking** | Concurrent requests cannot double-book the same slot. |
 | **Strict scope** | It only talks about the business, as Meta requires for WhatsApp assistants since January 2026. |
 | **Always on** | Runs as system services on a dedicated cloud server behind a Cloudflare tunnel. |

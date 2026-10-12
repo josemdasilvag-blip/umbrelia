@@ -34,7 +34,7 @@ is a visual overview, not a substitute for trying the live demo.
 | The demo offers voice and WhatsApp entry points | The live demo page and WhatsApp link | A link or page load does not prove a completed conversation. |
 | The assistant can discuss services and appointment requests | A visitor can try the prompts above | Results depend on the live service and demo calendar at the time of the test. |
 | Booking, changes and cancellation are implemented | The demo can be exercised with a test appointment | This does not establish behavior across all edge cases or a production clinic. |
-| 67 automated tests, slot locking, server setup and reporting | Described in the [README](README.md) | Test code, results and backend are private; these claims cannot be independently verified from this repository. |
+| 67 automated tests covering booking, assistant, webhook, voice and reporting behavior | [Dated test summary](TEST-EVIDENCE.md): 67 passed in a local run on 12 October 2026 | Test code and raw results are private; visitors cannot rerun the suite from this repository. This does not verify production uptime or external services. |
 
 For a code or test review, ask the author for access to the private product
 repository. No customer data or production results are published here.
