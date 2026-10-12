@@ -6,6 +6,11 @@ on WhatsApp and over the phone.
 
 ## Try it now
 
+For a quick overview, read the [project brief](PROJECT-BRIEF.md). For concrete
+customer journeys, see the [use cases](USE-CASES.md). The [public verification
+guide](VERIFICATION.md) explains what a visitor can check and what remains an
+internal claim.
+
 ### [▶ Talk to the receptionist by voice](https://josemdasilvag-blip.github.io/umbrelia/)
 A call in your browser, no phone needed. She speaks English and Spanish; the page has phrases to try.
 
